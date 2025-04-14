@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Footer from '../components/Footer'; // adjust the path as needed
+import Footer from '../components/FooterNew'; // adjust the path as needed
 
 const Home = () => {
   const [name, setName] = useState('');

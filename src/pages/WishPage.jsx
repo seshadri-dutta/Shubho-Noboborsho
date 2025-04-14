@@ -1,7 +1,7 @@
 import React from 'react';
 import { useLocation, useNavigate } from 'react-router-dom';
 import WishCard from '../components/WishcardNew';
-import Footer from '../components/Footer'; 
+import Footer from '../components/FooterNew'; 
 
 const wishes = [
   {

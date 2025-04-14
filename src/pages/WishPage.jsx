@@ -1,6 +1,6 @@
 import React from 'react';
 import { useLocation, useNavigate } from 'react-router-dom';
-import WishCard from '../components/WishCard';
+import WishCard from '../components/WishcardNew';
 
 const wishes = [
   {
